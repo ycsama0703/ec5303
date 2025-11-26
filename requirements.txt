@@ -1,0 +1,26 @@
+# Core computation
+numpy
+pandas
+scipy
+statsmodels
+
+# Plotting
+matplotlib
+seaborn
+
+# Copula modeling
+copulas
+statsmodels
+scikit-learn
+
+# Optional advanced copula / multivariate tools
+pyvinecopulib
+
+# Time series
+arch
+
+# Kaggle dataset loading
+kagglehub
+
+# Utility
+tqdm
